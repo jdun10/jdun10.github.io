@@ -1,2 +1,11 @@
-{
-}
+To create a repository on GitHub, you click on the plus sign next to your avatar in the top right corner and hit “create a 
+new repository”. Then fill out the appropriate licensing and privacy settings. To clone it, copy the provided url in the box on 
+the lower right section of the page and type in “git clone [the link]” to your terminal. Open Source means that your code can 
+be viewed and used by anyone. I think that Open Source is a good thing as long as you aren’t doing anything innovative with 
+your code. It makes me think of the adage “If you can do something well, never do it for free”. At the moment, Open Source
+doesn’t make me nervous at all as I’m not doing anything that I would be worried about others copying without my knowledge. As 
+time progresses and I learn how to code more complex programs, I might become more protective of what I write. Using licenses 
+are important because they clearly define to whom code belongs and who can use it. If you want control of what you write, don’t
+use Open Source. This challenge allowed me to work on my skills that have to do with pushing content from my own machine to
+GitHub and navigating Git. My “aha” moment was when I had been struggling to push my sublime text to GitHub and then was told 
+that I had been in the wrong repository. My resource for better understanding a topic was Emmanuel.
