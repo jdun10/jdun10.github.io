@@ -46,6 +46,16 @@ It’s very useful for quick checks like frequency or string length.
     	Loops can be a powerful tool for cutting down on the amount of code a developer needs to write. They can range from being basic programs on their own of a few lines to a great many times more depending on the complexity of the program. Ruby has more keywords to run a loop (each, map, inject, while), and JavaScript only has “for” and “while”. JavaScript’s loop parameters seem more clear-cut. When using “for”, you write when you want it to start, to end, and how to get between the two. 
     </article>
     
+    <h4>January 11, 2016</h4>
+    <article>
+    	An algorithm is like a function in your program and “Big O” notation is essentially how long it takes  to run the code. We want to find out how much slower the code will work if we give it a very long list of things to run through the code compared to a short list. So we measure the complexity of a program by saying something like “its complexity is 0(n)” or “Order of n” and that would be a simple program that doesn’t take long to run. What if we want the code to do something that it is unable to perform given the code’s limitations? For example, what if we gave the code the string “I had a great time today” and instructed it to count how many times the letter “x” was used? The code will take a relatively long time to return a non-answer and that kills the efficiency of the program. It would have a relatively high Big-O and the program is inefficient in that case.
+There are some simple programs that have a Big-O of 0(1), and this means that they take a constant amount of time to run the program. Something like
+def repeat(string)
+  puts (string) + (string)
+end
+takes a constant amount of time to run. It is simple enough that this program will (generally) take the same amount of time to run.
+    </article>
+    
 
       <!-- copy and paste as many sections as you want to add paragraphs -->
   </section>
