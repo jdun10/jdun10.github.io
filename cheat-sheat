@@ -1,0 +1,17 @@
+One page? Ok, let’s do it. I’ll focus on the basics of ruby and javascript since I’d like to try to remember how the syntax is set up.
+
+Both Ruby and JS are written numerically rather than in bit form. The booleans are the same. I don’t think that Ruby has ternary operators. 
+
+A semicolon acts as a period does in a sentence in JS, it lets the program know that you have come to a stop in a phrase. They are not always required, but it is considered good practice to include them.
+
+JS: For loops are used when you know how many times the loop will be run. While loops happen as long as the condition is met but you might not know how many times that will be.
+
+Programs still need to be called after they are determined and they can take parameters in the same way that Ruby does. Most of the mathematical equations in the same way, strings need quotation marks around them.
+
+JS: Global variables can be used throughout the entire code. Local variables are only used within the function in which they are defined.
+
+JS: You should use functions when there are variables that need to be manipulated or enough data to make it worthwhile to write a function to perform whatever you want it to do.
+
+The difference between dot and bracket notation when dealing with arrays in JS: Dot notation is faster to write and can be easier to read, but the brackets can be used with characters that can’t be used with dot notation.
+
+Biggest similarities between Ruby and JavaScript? I think that JS and Ruby handle mathematical equations very similarly and they treat arrays in nearly the same way. Their syntactical differences are slight but very important to remember since your code ultimately will not work if you don’t understand it. From the user’s point of view, JS would allow you to not have to reload a site to interact with it.
