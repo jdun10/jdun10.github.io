@@ -1,0 +1,13 @@
+body {
+	background-color: #e5f6ff;
+}
+
+h1 {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+article {
+	border-style: double;
+}
+
